@@ -170,3 +170,52 @@ main>section{
 #one{
     padding:30px 95px;
 }
+
+/* resume related */
+
+.resume-container{
+    display: flex;
+}
+
+.resume-colum-title{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #474747;
+}
+
+.resume-item-title{
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #474747;
+}
+
+.resume-item-institute{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+}
+#resume{
+    margin-bottom: 122px;
+}
+
+.resume-description{
+    font-weight: 400;
+    color: #757575;
+}
+
+.resume-colum{
+    margin-left: 75px;
+    margin-right: 95px;
+}
+
+.resume-item{
+    max-width: 510px;
+}
+
+#resume-btn{
+   text-align: center;
+   margin-top: 50px;
+}
