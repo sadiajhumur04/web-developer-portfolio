@@ -219,3 +219,49 @@ main>section{
    text-align: center;
    margin-top: 50px;
 }
+
+
+footer{
+    margin-top: 113px;
+    display: flex;
+    gap: 117px;
+    background-color:#FFF8F3;
+    padding: 130px 230px;
+}
+
+.footer-colum-description{
+    font-weight: 400;
+    color: #474747;
+    margin-top: 0px;
+}
+
+.footer-colum{
+    width: 50%;
+}
+
+.footer-colum-title{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+footer a{
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.contact input,textarea{
+    display: block;
+    margin-bottom: 24px;
+    width: 461px;
+    padding: 18px 65px 18px 30px;
+}
+
+#message{
+    height: 180px;
+}
+#footer-btn{
+    width: 150px;
+
+}
+
